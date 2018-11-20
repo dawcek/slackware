@@ -1,0 +1,4 @@
+wget https://github.com/hyperrealm/libconfig/archive/v1.7.2/libconfig-1.7.2.tar.gz
+wget https://slackbuilds.org/slackbuilds/14.2/libraries/libconfig.tar.gz
+wget https://github.com/montagdude/sboui/archive/1.1/sboui-1.1.tar.gz
+wget https://slackbuilds.org/slackbuilds/14.2/system/sboui.tar.gz
